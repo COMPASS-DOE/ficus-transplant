@@ -1,0 +1,90 @@
+[Header]	
+System	TOC_TNb Standard	
+S/W Version	1.00	
+User		
+Date/Time	8/8/2022 8:19:36 AM	
+
+[System]	
+Instrument Options	TOC/ASI/IC Unit/TN/	
+
+[Data]	
+Type	Anal.	Sample Name	Sample ID	Result(TOC)	Result(TC)	Result(IC)	Result(POC)	Result(NPOC)	Result(TN)	Unit	Vial	Date / Time	
+Standard	NPOC	cal	Untitled					100.0		mg/L	88, 89, 90, 91, 92, 93	8/4/2022 9:50:13 AM	
+Unknown	NPOC	chkstd-5ppm						0.01793		mg/L	80	8/4/2022 10:04:06 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core1						18.04		mg/L	1	8/4/2022 10:18:15 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core2						43.77		mg/L	2	8/4/2022 10:36:54 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core3						59.38		mg/L	3	8/4/2022 10:55:29 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core4						44.52		mg/L	4	8/4/2022 11:10:19 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core5						22.81		mg/L	5	8/4/2022 11:25:05 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core6						33.16		mg/L	6	8/4/2022 11:40:34 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core7						13.38		mg/L	7	8/4/2022 11:54:26 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core8						36.86		mg/L	8	8/4/2022 12:10:07 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core9						31.76		mg/L	9	8/4/2022 12:25:53 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core10						19.36		mg/L	10	8/4/2022 12:40:21 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core11						23.67		mg/L	11	8/4/2022 12:55:08 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core12						37.55		mg/L	12	8/4/2022 1:10:50 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core13						28.52		mg/L	13	8/4/2022 1:25:37 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core14						52.73		mg/L	14	8/4/2022 1:40:47 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core15						22.46		mg/L	15	8/4/2022 1:55:42 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core16						41.61		mg/L	16	8/4/2022 2:11:30 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core17						43.24		mg/L	17	8/4/2022 2:30:28 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core18						88.80		mg/L	18	8/4/2022 2:45:49 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core19						42.34		mg/L	19	8/4/2022 3:01:11 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core20	Untitled					44.24		mg/L	20	8/4/2022 3:16:32 PM	
+Unknown	NPOC	blank filter 1	Untitled					0.6432		mg/L	73	8/4/2022 3:32:34 PM	
+Unknown	NPOC	blank solution 1						0.3458		mg/L	74	8/4/2022 3:48:48 PM	
+Unknown	NPOC	DIW						0.4006		mg/L	81	8/4/2022 4:00:43 PM	
+Unknown	NPOC	chkstd-5ppm						4.802		mg/L	82	8/4/2022 4:13:41 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core21						25.33		mg/L	21	8/4/2022 4:28:27 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core22						21.69		mg/L	22	8/4/2022 4:43:06 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core23						62.11		mg/L	23	8/4/2022 4:58:37 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core24						49.21		mg/L	24	8/4/2022 5:13:41 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core25						12.68		mg/L	25	8/4/2022 5:27:23 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core26						9.820		mg/L	26	8/4/2022 5:41:12 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core27						22.72		mg/L	27	8/4/2022 5:55:35 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core28						11.92		mg/L	28	8/4/2022 6:09:32 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core29						5.705		mg/L	29	8/4/2022 6:22:34 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core31						211.7		mg/L	30	8/4/2022 6:37:43 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core32						31.43		mg/L	31	8/4/2022 6:52:16 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core33						49.01		mg/L	32	8/4/2022 7:07:28 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core34						26.38		mg/L	33	8/4/2022 7:22:01 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core35						2.875		mg/L	34	8/4/2022 7:37:06 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core36						12.84		mg/L	35	8/4/2022 7:50:58 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core37						44.76		mg/L	36	8/4/2022 8:06:47 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core38						21.31		mg/L	37	8/4/2022 8:21:36 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core39						27.00		mg/L	38	8/4/2022 8:39:21 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core40						39.84		mg/L	39	8/4/2022 8:54:43 PM	
+Unknown	NPOC	blank filter 2	Untitled					0.5190		mg/L	75	8/4/2022 9:10:48 PM	
+Unknown	NPOC	blank solution 2	Untitled					0.2919		mg/L	76	8/4/2022 9:23:07 PM	
+Unknown	NPOC	DIW	Untitled					0.3555		mg/L	83	8/4/2022 9:34:52 PM	
+Unknown	NPOC	chkstd-5ppm	Untitled					4.750		mg/L	84	8/4/2022 9:50:41 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core45						11.27		mg/L	40	8/4/2022 10:04:32 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core46						12.35		mg/L	41	8/4/2022 10:18:22 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core47						19.50		mg/L	42	8/4/2022 10:33:08 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core48						9.987		mg/L	43	8/4/2022 10:49:24 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core49						33.48		mg/L	44	8/4/2022 11:04:03 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core50						16.52		mg/L	45	8/4/2022 11:21:18 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core51						61.90		mg/L	46	8/4/2022 11:35:59 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core52						16.56		mg/L	47	8/4/2022 11:50:18 PM	
+Unknown	NPOC	SERC_Transplant_0-10_Core69						36.97		mg/L	48	8/5/2022 12:08:34 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core70						172.5		mg/L	49	8/5/2022 12:23:43 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core71						0.00632		mg/L	50	8/5/2022 12:37:27 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core72						93.71		mg/L	51	8/5/2022 12:53:25 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core73						83.40		mg/L	52	8/5/2022 1:08:56 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core74						50.17		mg/L	53	8/5/2022 1:27:21 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core75						23.79		mg/L	54	8/5/2022 1:42:11 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core76						34.48		mg/L	55	8/5/2022 1:57:18 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core77						58.44		mg/L	56	8/5/2022 2:13:12 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core78						240.6		mg/L	57	8/5/2022 2:29:52 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core79						46.16		mg/L	58	8/5/2022 2:48:17 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core80						13.66		mg/L	59	8/5/2022 3:02:44 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core81						30.73		mg/L	60	8/5/2022 3:17:49 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core82						32.81		mg/L	61	8/5/2022 3:32:50 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core83						46.49		mg/L	62	8/5/2022 3:48:06 AM	
+Unknown	NPOC	SERC_Transplant_0-10_Core84						24.47		mg/L	63	8/5/2022 4:02:37 AM	
+Unknown	NPOC	blank filter 3						0.6046		mg/L	77	8/5/2022 4:18:46 AM	
+Unknown	NPOC	blank solution 3	Untitled					0.3747		mg/L	78	8/5/2022 4:30:36 AM	
+Unknown	NPOC	DIW	Untitled					0.3425		mg/L	85	8/5/2022 4:42:21 AM	
+Unknown	NPOC	chkstd-5ppm	Untitled					4.779		mg/L	86	8/5/2022 4:57:59 AM	
+Unknown	NPOC	250ppm						247.3		mg/L	91	8/5/2022 1:34:31 PM	
+Unknown	NPOC	500ppm						510.1		mg/L	92	8/5/2022 1:50:50 PM	
